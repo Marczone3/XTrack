@@ -5,6 +5,7 @@ You will find all language files used in XTrack here.
 
 If you want to help translate XTrack into you language:
 
+
    1)  Make a GitHub account
    2)  Clone this repo to your computer.
    3)  Copy the en_UK.lang file
